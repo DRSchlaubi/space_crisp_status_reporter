@@ -19,4 +19,4 @@ This posts [Crisp Status Updates](https://crisp.chat/en/status/) into a [JetBrai
 > schlaubiboy/space_crisp_status:<tag from link above>
 ```
 
-# Environment variables definition: [here](https://github.com/DRSchlaubi/space_crisp_status_reporter/tree/main/src/config/Config.kt#L6-32)
+# Environment variables definition: [here](https://github.com/DRSchlaubi/space_crisp_status_reporter/tree/main/src/config/Config.kt#L6-L32)
