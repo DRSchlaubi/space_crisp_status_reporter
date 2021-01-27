@@ -5,7 +5,7 @@ This posts [Crisp Status Updates](https://crisp.chat/en/status/) into a [JetBrai
 ![Example](https://rice.by.devs-from.asia/chrome_8De8yybigv.png)
 
 # Setup
-- Create a Crisp Webhook subscribing to the `status:health:changed` event to `<yourhost>:8080/crisp/receive=key=<key>`
+- Create a Crisp Webhook subscribing to the `status:health:changed` event to `<yourhost>:8080/crisp/?receive=key=<key>`
 - Create a [Space Application](https://www.jetbrains.com/help/space/applications.html)
 - Run the [Docker container](https://hub.docker.com/r/schlaubiboy/space_crisp_status/tags?page=1&ordering=last_updated)
 ```shell
